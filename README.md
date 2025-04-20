@@ -1,2 +1,2 @@
-# learning-web-dev-zero-to-hero
-I am learning web development so uploading my progress here
+# learning-python-zero-to-hero
+I am learning PYTHON so uploading my progress here.
